@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I'm currently learning automated tests with Selenium WebDriver and Cypress. In addition, I continue studying the development of APIs with Java with Spring and Golang. 💻
 <!--
 **nicolasrsaraiva/nicolasrsaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
