@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm currently learning automated tests with Robot Framework, Selenium WebDriver, Appium and Cypress. In addition, I continue studying the development of APIs with Java + Spring and Golang!! 💻
+🌱 I'm currently learning automated tests with Selenium WebDriver, Appium and Cypress. In addition, I continue studying the development of APIs with Java + Spring and Golang!! 💻
 <!--
 **nicolasrsaraiva/nicolasrsaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
